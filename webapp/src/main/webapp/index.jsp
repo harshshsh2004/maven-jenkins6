@@ -11,3 +11,4 @@ checking auto deploy after build.
 
 Pipelie Test. Pipeline auto deploy.
 changing data
+change data 2 nd time
