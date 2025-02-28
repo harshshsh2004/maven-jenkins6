@@ -13,3 +13,4 @@ Pipelie Test. Pipeline auto deploy.
 changing data
 change data 2 nd time
 pipeline build
+auto deploy to dev
